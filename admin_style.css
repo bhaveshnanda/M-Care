@@ -25,7 +25,7 @@ body {
 #crud caption {
   background-color: #009688;
   color: #fff;
-  padding: 3px 0;
+  padding: 1.5px 0;
   font-size: 1.3rem;
 }
 
@@ -34,12 +34,12 @@ body {
 }
 
 #crud thead td {
-  padding: 3px;
+  padding: 1.5px;
   color: #009688;
 }
 
 #crud tbody td {
-  padding: 3px;
+  padding: 1.5px;
   border-bottom: 1px solid #009688;
   color: #666565;
 }
