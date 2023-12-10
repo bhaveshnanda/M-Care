@@ -18,15 +18,15 @@ body {
 }
 
 #crud {
-  width: 70%;
+  width: 60%;
   text-align: center;
 }
 
 #crud caption {
   background-color: #009688;
   color: #fff;
-  padding: 0.5px 0;
-  font-size: 1.3rem;
+  padding: 0.4px 0;
+  font-size: 1.2rem;
 }
 
 #crud thead {
@@ -34,13 +34,13 @@ body {
 }
 
 #crud thead td {
-  padding: 0.5px;
+  padding: 0.4px;
   color: #009688;
 }
 
 #crud tbody td {
-  padding: 0.5px;
-  border-bottom: 1px solid #009688;
+  padding: 0.4px;
+  border-bottom: 0.9px solid #009688;
   color: #666565;
 }
 
@@ -52,7 +52,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   font-size: 0.9rem;
   color: #fff;
-  border-radius: 3px;
+  border-radius: 2px;
   cursor: pointer;
 }
 
